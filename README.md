@@ -1,4 +1,5 @@
 **Challenge-1**
+
 Image Classification using CNN
 This project demonstrates how to train and evaluate a Convolutional Neural Network (CNN) for image classification using TensorFlow/Keras. The model is designed to learn from labeled image data and predict the class of unseen images.
 
