@@ -1,5 +1,7 @@
 This project performs unsupervised image classification using feature extraction from a pre-trained deep learning model followed by clustering (e.g., KMeans).
-How to Run
+
+**How to Run**
+
 Install dependencies
 
 bash
