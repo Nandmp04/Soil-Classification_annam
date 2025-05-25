@@ -4,6 +4,7 @@ Image Classification using CNN
 This project demonstrates how to train and evaluate a Convolutional Neural Network (CNN) for image classification using TensorFlow/Keras. The model is designed to learn from labeled image data and predict the class of unseen images.
 
 **Requirements**
+
 Install the required packages using:
 
 bash
@@ -17,7 +18,9 @@ Copy
 Edit
 pip install pydot
 apt-get install -y graphviz
+
 **Training the Model**
+
 To train the model:
 
 bash
@@ -35,6 +38,7 @@ Train a CNN on the dataset
 Save the trained model as model.h5
 
 **Making Predictions**
+
 To make predictions on new images:
 
 bash
